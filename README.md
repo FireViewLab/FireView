@@ -230,7 +230,5 @@ flutter run -d chrome --dart-define=API_BASE_URL=http://localhost:8080
 
 - 🎬 [서비스 시연 영상 (YouTube)](https://youtu.be/3v_RlzwPqVU)
 - 📑 [FireView팀 중간발표 자료 (PPTX)](./FireView%ED%8C%80_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pptx)
-- 📂 [1학기 발표 자료 (PPTX)](./FireView%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201%ED%95%99%EA%B8%B0%20%EB%B0%9C%ED%91%9C.pptx)
-
 ---
 
