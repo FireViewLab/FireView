@@ -201,3 +201,36 @@ flutter run -d chrome --dart-define=API_BASE_URL=http://localhost:8080
 | 정빈  | Frontend         | Flutter 기반 Web/App 크로스플랫폼 UI/UX 및 Riverpod 상태 관리 구현  |
 | 남정현 | Backend          | Spring Boot 기반 메인 비즈니스 API 개발 및 SSE 실시간 알림 파이프라인 구축  |
 | 김하연 | AI & Data        | FastAPI 기반 리뷰 크롤링 Worker 구현 및 KoELECTRA AI 분석 모델 연동  |
+
+
+## 🎬 Demo & Presentation Materials
+
+프로젝트의 주요 기능과 실제 구동 화면, 기술 구성 및 발표자료를 확인할 수 있습니다.
+
+<p align="center">
+  <a href="https://youtu.be/3v_RlzwPqVU">
+    <img src="https://img.youtube.com/vi/3v_RlzwPqVU/hqdefault.jpg"
+         alt="Re:view 시연 영상"
+         width="640" />
+  </a>
+  <br />
+  <sub>▶ 이미지를 클릭하면 YouTube 시연 영상이 재생됩니다.</sub>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/3v_RlzwPqVU">
+    <img src="https://img.shields.io/badge/YouTube-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="./FireView%ED%8C%80_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pptx">
+    <img src="https://img.shields.io/badge/PPTX-Midterm_Presentation-2563EB?style=for-the-badge" />
+  </a>
+</p>
+
+### 📁 Project Materials
+
+- 🎬 [서비스 시연 영상 (YouTube)](https://youtu.be/3v_RlzwPqVU)
+- 📑 [FireView팀 중간발표 자료 (PPTX)](./FireView%ED%8C%80_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pptx)
+- 📂 [1학기 발표 자료 (PPTX)](./FireView%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201%ED%95%99%EA%B8%B0%20%EB%B0%9C%ED%91%9C.pptx)
+
+---
+
